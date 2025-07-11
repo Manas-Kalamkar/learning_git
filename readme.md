@@ -1,3 +1,2 @@
-## Yo, Git!  
-- yoyo guys 
+## Hello, Git!  
 - I'm adding this from `BranchOneOne`
